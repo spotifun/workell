@@ -1,0 +1,7 @@
+*.hi
+*.o
+node_modules/
+dist/
+worker/*
+!worker/package.json
+!worker/metadata.json
